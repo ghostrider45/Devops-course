@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 Test file
-
-=======
-Test file for clone
->>>>>>> 3cbdaed74926ba380a52de329795485a725bfea6
